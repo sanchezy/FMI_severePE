@@ -14,7 +14,7 @@ Fastq files from single-cell and spatial data will be deposited in a public data
 
 ## Single-cell and Spatial processed data 
 
-* Seurat objects will be deposited in Figshare: 'in progress'
+* Seurat objects will be deposited in Figshare: `in progress`
 * Count Matrices will also be deposited in [CZ Cell x Gene](https://cellxgene.cziscience.com) `in progress`
 
 ## Citation

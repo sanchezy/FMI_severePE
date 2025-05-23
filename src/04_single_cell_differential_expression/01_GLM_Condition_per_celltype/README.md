@@ -5,3 +5,4 @@ The model is given by the following matrix: `design <- model.matrix(~0 + GA_Cond
 1) `01_run_EdgeR`: scripts to run EdgeR. We use a HPC at UCL.
 2) `02_notebook_number_of_DEG`: notebook plotting the number of DEG per contrast and cell type.
 3) `03_notebook_volcano_plots`: notebook about ploting volcano plots. Note the volcano plots are not rendered here (code is commented) but tables are visible.
+4) `04_notebook_overlap_GA_Condition`: notebook about the overlap of gestational age (GA) and condition using GLM.

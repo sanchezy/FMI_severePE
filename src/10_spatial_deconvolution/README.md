@@ -1,5 +1,6 @@
 This folder contains notebooks and scripts related to Visium spatial deconvolution using [cell2location](https://colab.research.google.com/github/BayraktarLab/cell2location/blob/master/docs/notebooks/cell2location_tutorial.ipynb) 
 
+## Contents
 
 1) `01_export_h5ad_object.R`: script to export an h5ad object from a Seurat object. Important to train the single-cell model in part 1.
 2) `02_cell2location_train_singlecell_vrtx_part1.py`: part 1, train a single-cell model.

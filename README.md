@@ -8,18 +8,16 @@ Data processing and analysis scripts for the paper on severe preeclampsia
 * `metadata`: contains metadata related to donor and cell annotations, colours and groupings.
 
 ## Raw sequencing data 
-Fastq files from single-cell and spatial data will be deposited in a public database.
+Fastq files from single-cell and spatial data are deposited in the public database: `NCBI GEO GSE319236` 
 
-`in progress`
 
 ## Single-cell and Spatial processed data 
 
-* Seurat objects will be deposited in Figshare: `in progress`
-* Count Matrices will also be deposited in [CZ Cell x Gene](https://cellxgene.cziscience.com) `in progress`
+* Seurat objects are deposited in Figshare: `[Single-cell transcriptomics and spatial transcriptomics (Visium) seurat objects of the fetal-maternal interface in severe preeclampsia](https://doi.org/10.6084/m9.figshare.31489183)`
 
 ## Citation
 
-If you use this data or code for your work, please cite: `in progress`
+If you use this data or code for your work, please cite: `Spatially resolved fetal and maternal cell contributions to severe Preeclampsia`
 
 ## Contact
 

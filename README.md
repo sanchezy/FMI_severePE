@@ -18,6 +18,7 @@ Fastq files from single-cell and spatial data are deposited in the public databa
 ## Citation
 
 If you use this data or code for your work, please cite: 
+
 Spatially resolved fetal and maternal cell contributions to severe Preeclampsia
 
 ## Contact

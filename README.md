@@ -13,7 +13,7 @@ Fastq files from single-cell and spatial data are deposited in the public databa
 
 ## Single-cell and Spatial processed data 
 
-* Seurat objects are deposited in Figshare: `[Single-cell transcriptomics and spatial transcriptomics (Visium) seurat objects of the fetal-maternal interface in severe preeclampsia](https://doi.org/10.6084/m9.figshare.31489183)`
+* Seurat objects are deposited in Figshare: [Single-cell transcriptomics and spatial transcriptomics (Visium) seurat objects of the fetal-maternal interface in severe preeclampsia](https://doi.org/10.6084/m9.figshare.31489183)
 
 ## Citation
 

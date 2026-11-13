@@ -1,6 +1,7 @@
 # Spatially resolved maternal and fetal cell contributions in Severe Preeclampsia 
 
-Data processing and analysis scripts for the paper on severe preeclampsia 
+Data processing and analysis scripts for the paper:  **Spatially resolved fetal and maternal cell contributions to severe preeclampsia across gestation**
+DOI: 10.1126/sciadv.aed8964
 
 ## Repository contents
 
@@ -18,9 +19,32 @@ Fastq files from single-cell and spatial data are deposited in the public databa
 
 ## Citation
 
-If you use this data or code for your work, please cite: 
+## Citation
 
-Spatially resolved fetal and maternal cell contributions to severe Preeclampsia
+If you use this work, please cite:
+
+> Sanchez-Corrales YE, Xenakis T, Moreno-Villena JJ, *et al.*
+> **Spatially resolved fetal and maternal cell contributions to severe preeclampsia across gestation.**
+> *Science Advances*. 2026;12(30):eaed8964.
+> [https://doi.org/10.1126/sciadv.aed8964](https://doi.org/10.1126/sciadv.aed8964)
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{SanchezCorrales2026,
+  author  = {Sanchez-Corrales, Yara E. and Xenakis, Theodoros and Moreno-Villena, Jose J. and others},
+  title   = {Spatially resolved fetal and maternal cell contributions to severe preeclampsia across gestation},
+  journal = {Science Advances},
+  year    = {2026},
+  volume  = {12},
+  number  = {30},
+  pages   = {eaed8964},
+  doi     = {10.1126/sciadv.aed8964}
+}
+```
+
+</details>
 
 ## Contact
 
